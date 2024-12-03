@@ -1,0 +1,10 @@
+---Pictures----
+carousel photos, home photos, and thumbnail photos
+These are my pictures from my photography class
+that I want to showcase in my portfolio.
+Also, a picture of myself.
+
+
+---Social Media Icons---
+Provided from LinkedIn Training Exercise Files
+https://www.linkedin.com/learning/css-essential-training-22688362/
